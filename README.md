@@ -1,6 +1,7 @@
 # Clone of Urban Company Clone
 
-Cloning of Urban Company website. We are a team of 3. We have tried to create a clone of a well known on demand service provider call Urban Company. For more details <a href="https://urban-company-clone.netlify.app/">Click here</a>
+Cloning of Urban Company website. We are a team of 3. We have tried to create a clone of a well-known on-demand service provider call Urban Company. For more details <a href="https://urban-company-clone.netlify.app/">Click here</a>
+
 
 # Home Page
 
@@ -61,8 +62,8 @@ Urban Company is an Indian gig marketplace that offers home installation, mainte
 ### Flow :
 
 * User lands on "Home page"
-* User clicks on login/Signup enter mobile number and otp
-* User will lands on home page as a registered user
+* User clicks on login/Signup and enters mobile number and OTP
+* User will land on home page as a registered user
 * User can Select live location using GPS from Location input.
 * User can serch services as per requirement or user can select services(we have worked on Ac service).
 * In service page user will find more details about services, technician, Customer review, blogs, About service 
